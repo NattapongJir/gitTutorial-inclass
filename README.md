@@ -6,4 +6,5 @@ for Git tutorial in Project Seminar class
 ## Update on GitHub Cloud
 
 - Bob Cat bob@mail.com
-- Tom Cattom@mail.com
+- Tom Cat tom@mail.com
+- Sue Lamb sue@mail.com
